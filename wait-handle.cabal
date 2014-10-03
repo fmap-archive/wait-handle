@@ -1,15 +1,13 @@
 Name:
   wait-handle
 Version:
-  0.1
+  0.1.1
 Cabal-Version:
   >= 1.2
 Category:
-  Distribution
+  Concurrency
 Synopsis:
-  Packaging of 'WaitHandle', extracted from Max Bolingbroke's OpenShake. Wait
-  handles are MVars which can only be written to once, and from which values
-  can never be removed.
+  Wait handles are MVars which can only be written to once, and from which values can never be removed.
 Description:
   Packaging of 'WaitHandle', extracted from Max Bolingbroke's OpenShake. Wait
   handles are MVars which can only be written to once, and from which values
